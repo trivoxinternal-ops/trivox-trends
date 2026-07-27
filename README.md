@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-07-20 — Week of July 20, 2026](trends/2026-07-20.md)
+- [2026-07-27 — Week of July 27, 2026](trends/2026-07-27.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-07-27](trends/2026-07-27.md) | EU AI Act August deadline creates new niche, med spa vertical highest retainer hit rate, ElevenLabs keyterms for domain vocab, n8n MCP OAuth, 468% ROI in clinic scheduling |
 | [2026-07-20](trends/2026-07-20.md) | xAI Voice Agent Builder launch, n8n 2.0 AI nodes, real estate AI at 90% adoption, ElevenLabs $500M raise |
 
 ## Coverage Areas
