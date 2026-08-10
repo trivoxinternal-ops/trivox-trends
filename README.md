@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-08-03 — Week of August 3, 2026](trends/2026-08-03.md)
+- [2026-08-10 — Week of August 10, 2026](trends/2026-08-10.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-08-10](trends/2026-08-10.md) | EU AI Act enforcement live (insurance spend NOW), Retell Assure + #1 benchmark, ElevenLabs Studio 3.0 + agent branching, n8n MCP OAuth fixes, TrustScale Argus hallucination layer, clinic AI billing 2–7 days, LinkedIn Depth Score kills generic AI content |
 | [2026-08-03](trends/2026-08-03.md) | ElevenLabs v1 models deprecated, Audio Tags + Studio 3.0, Zapier BYOM/Guardrails/Memory, Weaviate 2.0 NL queries, clinic RCM AI wave, AEO replaces SEO, 12% MQL from AI chatbot CTAs |
 | [2026-07-27](trends/2026-07-27.md) | EU AI Act August deadline creates new niche, med spa vertical highest retainer hit rate, ElevenLabs keyterms for domain vocab, n8n MCP OAuth, 468% ROI in clinic scheduling |
 | [2026-07-20](trends/2026-07-20.md) | xAI Voice Agent Builder launch, n8n 2.0 AI nodes, real estate AI at 90% adoption, ElevenLabs $500M raise |
