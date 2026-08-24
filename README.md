@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-08-17 — Week of August 17, 2026](trends/2026-08-17.md)
+- [2026-08-24 — Week of August 24, 2026](trends/2026-08-24.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-08-24](trends/2026-08-24.md) | Oracle Health clinical AI expansion (400K physician hours saved), Retell native Salesforce/HubSpot CRM sync, VAPI Chat API + Grok speech, Flarre.AI + Bolt insurance platform launches, EU Act €35M penalty live, LinkedIn carousels at 6.6% engagement, n8n JSON schema validation for agents |
 | [2026-08-17](trends/2026-08-17.md) | ElevenLabs simulate_conversation + Dubbing v2 + $0.08/min price cut, n8n MCP SDK v2 + agent timeline persistence, EU AI Act fully enforced (insurance/legal urgency), Jointly AI autonomous broker launch, Home Services + YouTube as breakout agency niches, AI video 62% VTR vs 47% traditional |
 | [2026-08-10](trends/2026-08-10.md) | EU AI Act enforcement live (insurance spend NOW), Retell Assure + #1 benchmark, ElevenLabs Studio 3.0 + agent branching, n8n MCP OAuth fixes, TrustScale Argus hallucination layer, clinic AI billing 2–7 days, LinkedIn Depth Score kills generic AI content |
 | [2026-08-03](trends/2026-08-03.md) | ElevenLabs v1 models deprecated, Audio Tags + Studio 3.0, Zapier BYOM/Guardrails/Memory, Weaviate 2.0 NL queries, clinic RCM AI wave, AEO replaces SEO, 12% MQL from AI chatbot CTAs |
