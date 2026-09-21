@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-09-14 — Week of September 14, 2026](trends/2026-09-14.md)
+- [2026-09-21 — Week of September 21, 2026](trends/2026-09-21.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-09-21](trends/2026-09-21.md) | Multi-agent orchestration as standard service tier, ElevenLabs multilingual voice cloning v2 + custom phoneme dictionaries + real-time monitoring, n8n v2.40.0 beta (Qdrant/Weaviate native nodes + persistent agent memory), Make AI multi-branch generation, Q3 healthcare budget window open, HB 2175 spreading to CO/IL/WA, "AI operations partner" framing +18–24% open rates, LinkedIn voice note DMs 3–5× response rate |
 | [2026-09-14](trends/2026-09-14.md) | PlayHT acquired by Meta (discontinued — migrate now), ElevenLabs AMD for outbound + workspace tickets, n8n v2.39.0 (Teams meetings + Jira/Confluence 2LO + Instance AI search), Make adds Claude Fable 5.1 + Gemini 3.7 Flash, Bland AI $50M Series C, healthcare 60%+ self-serve booking, insurance 75% faster claims, AEO traffic converts 22× better |
 | [2026-09-07](trends/2026-09-07.md) | ElevenLabs sentiment analysis + nested agent transfers + SMS routing, Make Grid + Make AI open to all, n8n v2.38.x beta, PlayHT 3.0, healthcare voice AI $650M→$11.7B (37.85% CAGR), Agentic FNOL in insurance (new category), LinkedIn AI Visibility concept, YouTube niche confirmed #1 |
 | [2026-08-31](trends/2026-08-31.md) | ElevenLabs CLI v1.0.0 + Hosted MCP (OAuth), VAPI RBAC + Version Control, n8n v2.37.x session timeline persistence, Inside Real Estate ComplianceAI + MCP launch, healthcare voice AI 42% CAGR, financial services $3K–$7K/month retainer opportunity, 99% of insurers have GenAI projects |
