@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-09-21 — Week of September 21, 2026](trends/2026-09-21.md)
+- [2026-09-28 — Week of September 28, 2026](trends/2026-09-28.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-09-28](trends/2026-09-28.md) | Claude Opus 5.5 + GPT-6 Sol/Luna price war (Sept 22), Dreamforce 2026: Salesforce Claudeforce $800M ARR + 29K enterprise deals, n8n v2.41 agents by default, ZapConnect Next Gen Zaps (no loop cap + HITL), Abridge $775M VA contract, Harvey $550M at $15.6B, Compass AI for 83K agents, ElevenLabs parallel tool calls + GPT-6 Astra, LinkedIn vertical video now #1 non-follower reach format, signal-based outreach at 15–18% reply rate |
 | [2026-09-21](trends/2026-09-21.md) | Multi-agent orchestration as standard service tier, ElevenLabs multilingual voice cloning v2 + custom phoneme dictionaries + real-time monitoring, n8n v2.40.0 beta (Qdrant/Weaviate native nodes + persistent agent memory), Make AI multi-branch generation, Q3 healthcare budget window open, HB 2175 spreading to CO/IL/WA, "AI operations partner" framing +18–24% open rates, LinkedIn voice note DMs 3–5× response rate |
 | [2026-09-14](trends/2026-09-14.md) | PlayHT acquired by Meta (discontinued — migrate now), ElevenLabs AMD for outbound + workspace tickets, n8n v2.39.0 (Teams meetings + Jira/Confluence 2LO + Instance AI search), Make adds Claude Fable 5.1 + Gemini 3.7 Flash, Bland AI $50M Series C, healthcare 60%+ self-serve booking, insurance 75% faster claims, AEO traffic converts 22× better |
 | [2026-09-07](trends/2026-09-07.md) | ElevenLabs sentiment analysis + nested agent transfers + SMS routing, Make Grid + Make AI open to all, n8n v2.38.x beta, PlayHT 3.0, healthcare voice AI $650M→$11.7B (37.85% CAGR), Agentic FNOL in insurance (new category), LinkedIn AI Visibility concept, YouTube niche confirmed #1 |
