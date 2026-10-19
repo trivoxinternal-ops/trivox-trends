@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-10-12 — Week of October 12, 2026](trends/2026-10-12.md)
+- [2026-10-19 — Week of October 19, 2026](trends/2026-10-19.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-19](trends/2026-10-19.md) | ElevenAgents Architect alpha (voice-controlled agent builder), ElevenLabs Brand Kit GA + Instant Soundtracks (Oct 15), n8n 2.44 (Vertex AI + Microsoft Foundry relabeling), n8n 3.0 release ambiguous (breaking changes imminent), Pennsylvania HB 1925 + NAIC AI supplement final Nov 2026, DTRE + Moveli proptech launches (Oct 15), EliseAI Apollo agentic property ops, Bland AI Twilio official partner, "human perspective" > "AI-powered" in agency messaging |
 | [2026-10-12](trends/2026-10-12.md) | Claude Haiku 5.5 ($0.10/M tokens, ~90% cheaper), ElevenLabs AI Caller Detection + Brand Kit + Merge Proposals (Oct 9), VAPI Squads (Workflows retired), Retell HIPAA-default, Make Grid adds n8n/Claude Managed Agents/Relevance AI, 7 new AI health insurance state laws (Alabama + Washington effective Oct 1), AppFolio Realm-X + PropertyMe AiMe Connect (Oct 8–9), ChatGPT referrals convert at 15.9% vs 0.7% Google |
 | [2026-10-05](trends/2026-10-05.md) | ElevenLabs v4 Turbo (150ms latency, FedRAMP 20x Class A), Claude Sonnet 5.5 (30% cheaper/faster), GPT-6.1 Sol (DevDay, $2/$10/M tokens), Salesforce Winter '27 GA (Agentforce Builder), n8n 3.0 breaking changes imminent (drop npm/npx + legacy v1 agent nodes), Make.com legacy OpenAI models deprecated Sept 28, Grewal Eye Institute 675% ROI in 90 days, clinic scheduling as highest ROI vertical, demo-first outbound at 36% higher meeting conversion |
 | [2026-09-28](trends/2026-09-28.md) | Claude Opus 5.5 + GPT-6 Sol/Luna price war (Sept 22), Dreamforce 2026: Salesforce Claudeforce $800M ARR + 29K enterprise deals, n8n v2.41 agents by default, ZapConnect Next Gen Zaps (no loop cap + HITL), Abridge $775M VA contract, Harvey $550M at $15.6B, Compass AI for 83K agents, ElevenLabs parallel tool calls + GPT-6 Astra, LinkedIn vertical video now #1 non-follower reach format, signal-based outreach at 15–18% reply rate |
