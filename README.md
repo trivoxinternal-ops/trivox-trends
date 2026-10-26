@@ -4,12 +4,13 @@ Weekly intelligence reports on AI automation, voice agents, tools, and vertical 
 
 ## Latest Report
 
-- [2026-10-19 — Week of October 19, 2026](trends/2026-10-19.md)
+- [2026-10-26 — Week of October 26, 2026](trends/2026-10-26.md)
 
 ## All Reports
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-26](trends/2026-10-26.md) | Salesforce Hunter AI outbound agent (Oct 16), ElevenLabs Eleven Realtime 570ms latency + v4 Turbo #1 Speech Arena, n8n 2.44–2.45 (WhatsApp channels, SharePoint Trigger, durable scheduler), n8n 3.0 imminent (migration service opportunity), Make Maia builds workflows from plain language, Tairex clinical AI framework (Oct 21), agentic clinic paperwork (PYMNTS Oct 26), AEO replaces SEO as primary content strategy, $1,500 audit as SMB entry offer |
 | [2026-10-19](trends/2026-10-19.md) | ElevenAgents Architect alpha (voice-controlled agent builder), ElevenLabs Brand Kit GA + Instant Soundtracks (Oct 15), n8n 2.44 (Vertex AI + Microsoft Foundry relabeling), n8n 3.0 release ambiguous (breaking changes imminent), Pennsylvania HB 1925 + NAIC AI supplement final Nov 2026, DTRE + Moveli proptech launches (Oct 15), EliseAI Apollo agentic property ops, Bland AI Twilio official partner, "human perspective" > "AI-powered" in agency messaging |
 | [2026-10-12](trends/2026-10-12.md) | Claude Haiku 5.5 ($0.10/M tokens, ~90% cheaper), ElevenLabs AI Caller Detection + Brand Kit + Merge Proposals (Oct 9), VAPI Squads (Workflows retired), Retell HIPAA-default, Make Grid adds n8n/Claude Managed Agents/Relevance AI, 7 new AI health insurance state laws (Alabama + Washington effective Oct 1), AppFolio Realm-X + PropertyMe AiMe Connect (Oct 8–9), ChatGPT referrals convert at 15.9% vs 0.7% Google |
 | [2026-10-05](trends/2026-10-05.md) | ElevenLabs v4 Turbo (150ms latency, FedRAMP 20x Class A), Claude Sonnet 5.5 (30% cheaper/faster), GPT-6.1 Sol (DevDay, $2/$10/M tokens), Salesforce Winter '27 GA (Agentforce Builder), n8n 3.0 breaking changes imminent (drop npm/npx + legacy v1 agent nodes), Make.com legacy OpenAI models deprecated Sept 28, Grewal Eye Institute 675% ROI in 90 days, clinic scheduling as highest ROI vertical, demo-first outbound at 36% higher meeting conversion |
